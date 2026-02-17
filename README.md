@@ -22,4 +22,8 @@ Trail And error/ enemies knipperen rood bij de start van het lvl om gevaar te la
 
 ![Lvl1](grid_64x36_2048x1152.jpg)
 
+Noahs level 1 design.
 
+![Lvl2](level2.jpg)
+
+Cady's level 2 design.
