@@ -15,7 +15,7 @@ door deze upgrade kan je sneller worden sterker worden of andere coole abilies u
 de standaard WASD movement zorgt er voor dat de speler er snel genoeg achter komt hoe de momement werkt
 
 ### Hoe communiceer ik wat het doel van het level is?
-
+Alle orbs verzamelen en spenderen aan upgrades.
 
 ### Hoe communiceer ik wat gevaarlijk is?
 Trail And error/ enemies knipperen rood bij de start van het lvl om gevaar te laten zien
