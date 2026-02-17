@@ -20,6 +20,6 @@ Alle orbs verzamelen en spenderen aan upgrades.
 ### Hoe communiceer ik wat gevaarlijk is?
 Trail And error/ enemies knipperen rood bij de start van het lvl om gevaar te laten zien
 
-![Lvl1](grid_64x36_2048x1152.png)
+![Lvl1](grid_64x36_2048x1152.jpg)
 
 
