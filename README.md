@@ -55,7 +55,8 @@ snelste pad naar de speler toe
 
 #### Wat gebeurt er als de speler niet zichtbaar is?
 
-random movement
+Loopt naar verschillende coordinaten, blijft nooit in een hoek
+Bewegingen verschilt per enemy
 
 #### Wanneer stopt het gedrag?
 
