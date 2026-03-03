@@ -33,6 +33,32 @@ Trail And error/ enemies knipperen rood bij de start van het lvl om gevaar te la
 
 ### Gedrags regels van de vijand: 
 
-begin van het level is het 5 seconde bevroren.
+#### Wanneer start het gedrag?
 
-als de speler in lign of sight komt van de vijand valt hij aan.
+5-10 sec na de start
+
+#### Wat zijn de triggers?
+
+line of sight
+
+#### Wanneer verandert het gedrag?
+
+als de enemy de speler ziet
+
+#### Hoe beweegt de vijand?
+
+standaard movement
+
+#### Wat gebeurt er als de speler zichtbaar is?
+
+snelste pad naar de speler toe
+
+#### Wat gebeurt er als de speler niet zichtbaar is?
+
+random movement
+
+#### Wanneer stopt het gedrag?
+
+eind van het lvl / player power up
+
+
