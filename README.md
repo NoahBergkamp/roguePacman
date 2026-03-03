@@ -18,7 +18,7 @@ de standaard WASD movement zorgt er voor dat de speler er snel genoeg achter kom
 Alle orbs verzamelen en spenderen aan upgrades.
 
 ### Hoe communiceer ik wat gevaarlijk is?
-Trail And error/ enemies knipperen rood bij de start van het lvl om gevaar te laten zien
+Trail And error/ enemies knipperen rood bij de start van het lvl om gevaar te laten zien.
 
 ## Noahs level 1 design:
 ![Lvl1](grid_64x36_2048x1152.jpg)
@@ -27,3 +27,12 @@ Trail And error/ enemies knipperen rood bij de start van het lvl om gevaar te la
 ## Cady's level 2 design:
 ![Lvl2](level2.jpg)
 
+
+
+## Vijand ontwerpen
+
+### Gedrags regels van de vijand: 
+
+begin van het level is het 5 seconde bevroren.
+
+als de speler in lign of sight komt van de vijand valt hij aan.
