@@ -64,6 +64,7 @@ eind van het lvl / player power up
 
 
 
+Our flowchart of enemy
 <img width="2650" height="2460" alt="Character Movement Decision-2026-03-03-095737" src="https://github.com/user-attachments/assets/d7b7f44a-9eef-419b-89fa-a86c01131f1f" />
 
 
