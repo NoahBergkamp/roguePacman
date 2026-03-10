@@ -1,8 +1,8 @@
 using UnityEngine;
-
 public class PlayerController : MonoBehaviour
 {
     public float speed = 1.0f;
+    
 
     void Start()
     {
@@ -31,4 +31,6 @@ public class PlayerController : MonoBehaviour
             transform.position += Vector3.right * speed * Time.deltaTime;
         }
     }
+
+    
 }
