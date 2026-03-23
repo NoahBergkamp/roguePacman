@@ -2,10 +2,9 @@ using UnityEngine;
 
 public class MovementScript : MonoBehaviour
     {
-    [SerializeField]
-    private GameObject Waypoint;
+   
     public float speed = 4f;
-    public float duration;
+    public float duration; 
         void Update()
         {
             if (Input.GetKey(KeyCode.W))
@@ -44,10 +43,3 @@ public class MovementScript : MonoBehaviour
             }
     }
 }
-/*
-* project gay guy
-GameObject wp = Instantiate(Waypoint);
-wp.transform.position = transform.position;
-gameObject.transform.position = wp.transform.position;
-*/
-
