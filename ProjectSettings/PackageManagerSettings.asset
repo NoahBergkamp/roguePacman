@@ -18,11 +18,7 @@ MonoBehaviour:
   m_SeeAllPackageVersions: 0
   m_DismissPreviewPackagesInUse: 0
   oneTimeWarningShown: 0
-<<<<<<< HEAD
   oneTimePackageErrorsPopUpShown: 0
-=======
-  oneTimeDeprecatedPopUpShown: 0
->>>>>>> 4b4bc02687a3031e6bd7284dbe3b5172687fb2a0
   m_Registries:
   - m_Id: main
     m_Name: 
@@ -39,11 +35,6 @@ MonoBehaviour:
   m_RegistryInfoDraft:
     m_Modified: 0
     m_ErrorMessage: 
-<<<<<<< HEAD
-    m_UserModificationsInstanceId: -918
-    m_OriginalInstanceId: -920
-=======
-    m_UserModificationsInstanceId: -894
-    m_OriginalInstanceId: -896
->>>>>>> 4b4bc02687a3031e6bd7284dbe3b5172687fb2a0
+    m_UserModificationsInstanceId: -896
+    m_OriginalInstanceId: -898
   m_LoadAssets: 0
