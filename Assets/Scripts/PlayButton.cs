@@ -3,8 +3,13 @@ using UnityEngine.SceneManagement;
 
 public class PlayButton : MonoBehaviour
 {
-    public void LoadCurrentScene()
+    public void StartGame()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Level1");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }
