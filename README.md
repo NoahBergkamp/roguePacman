@@ -67,5 +67,12 @@ eind van het lvl / player power up
 Our flowchart of enemy
 <img width="2650" height="2460" alt="Character Movement Decision-2026-03-03-095737" src="https://github.com/user-attachments/assets/d7b7f44a-9eef-419b-89fa-a86c01131f1f" />
 
+## Toegevoegde game mechanics voor rogue Pacman
 
+### Noah:
+Een korte sprint, een Enemy die de speler volgt, start menu.
 
+### Cady:
+Level getekent, start menu.
+
+Dit is een korte update op ons proces. 3e enemy is WIP.
