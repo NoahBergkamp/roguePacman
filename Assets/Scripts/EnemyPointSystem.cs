@@ -1,5 +1,6 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyPointSystem : MonoBehaviour
 {
@@ -29,5 +30,10 @@ public class EnemyPointSystem : MonoBehaviour
         }
 
         spriteRenderer.flipX = (transform.position.x - points[i].position.x) < 0f;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        SceneManager.LoadScene("DeathScene");
     }
 }

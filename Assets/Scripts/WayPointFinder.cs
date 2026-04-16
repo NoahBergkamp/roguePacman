@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class WayPointFinder : MonoBehaviour
 {
@@ -29,5 +30,8 @@ public class WayPointFinder : MonoBehaviour
         }
     }
 
-
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        SceneManager.LoadScene("DeathScene");
+    }
 }
